@@ -1,0 +1,1637 @@
+.accent-rosewater {
+  accent-color: #e68d70; }
+
+.accent-flamingo {
+  accent-color: #d87c7a; }
+
+.accent-pink {
+  accent-color: #df8f92; }
+
+.accent-mauve {
+  accent-color: #a768f9; }
+
+.accent-red {
+  accent-color: #d54d52; }
+
+.accent-maroon {
+  accent-color: #f0606d; }
+
+.accent-peach {
+  accent-color: #f07f40; }
+
+.accent-yellow {
+  accent-color: #da9413; }
+
+.accent-green {
+  accent-color: #4cab38; }
+
+.accent-teal {
+  accent-color: #78bfb8; }
+
+.accent-sky {
+  accent-color: #60bfe5; }
+
+.accent-sapphire {
+  accent-color: #56adcf; }
+
+.accent-blue {
+  accent-color: #6c97e1; }
+
+.accent-lavender {
+  accent-color: #9799ff; }
+
+.accent-text {
+  accent-color: #322c2a; }
+
+.accent-subtext1 {
+  accent-color: #473c36; }
+
+.accent-subtext0 {
+  accent-color: #5a4f44; }
+
+.accent-overlay2 {
+  accent-color: #6f6254; }
+
+.accent-overlay1 {
+  accent-color: #847564; }
+
+.accent-overlay0 {
+  accent-color: #988873; }
+
+.accent-surface2 {
+  accent-color: #ad9c86; }
+
+.accent-surface1 {
+  accent-color: #c1aa8e; }
+
+.accent-surface0 {
+  accent-color: #d8c1a4; }
+
+.accent-base {
+  accent-color: #f2e5bc; }
+
+.accent-mantle {
+  accent-color: #ebdbb2; }
+
+.accent-crust {
+  accent-color: #d5c4a1; }
+
+.background-rosewater {
+  background-color: #e68d70; }
+
+.background-flamingo {
+  background-color: #d87c7a; }
+
+.background-pink {
+  background-color: #df8f92; }
+
+.background-mauve {
+  background-color: #a768f9; }
+
+.background-red {
+  background-color: #d54d52; }
+
+.background-maroon {
+  background-color: #f0606d; }
+
+.background-peach {
+  background-color: #f07f40; }
+
+.background-yellow {
+  background-color: #da9413; }
+
+.background-green {
+  background-color: #4cab38; }
+
+.background-teal {
+  background-color: #78bfb8; }
+
+.background-sky {
+  background-color: #60bfe5; }
+
+.background-sapphire {
+  background-color: #56adcf; }
+
+.background-blue {
+  background-color: #6c97e1; }
+
+.background-lavender {
+  background-color: #9799ff; }
+
+.background-text {
+  background-color: #322c2a; }
+
+.background-subtext1 {
+  background-color: #473c36; }
+
+.background-subtext0 {
+  background-color: #5a4f44; }
+
+.background-overlay2 {
+  background-color: #6f6254; }
+
+.background-overlay1 {
+  background-color: #847564; }
+
+.background-overlay0 {
+  background-color: #988873; }
+
+.background-surface2 {
+  background-color: #ad9c86; }
+
+.background-surface1 {
+  background-color: #c1aa8e; }
+
+.background-surface0 {
+  background-color: #d8c1a4; }
+
+.background-base {
+  background-color: #f2e5bc; }
+
+.background-mantle {
+  background-color: #ebdbb2; }
+
+.background-crust {
+  background-color: #d5c4a1; }
+
+.border-block-rosewater {
+  border-block-color: #e68d70; }
+
+.border-block-flamingo {
+  border-block-color: #d87c7a; }
+
+.border-block-pink {
+  border-block-color: #df8f92; }
+
+.border-block-mauve {
+  border-block-color: #a768f9; }
+
+.border-block-red {
+  border-block-color: #d54d52; }
+
+.border-block-maroon {
+  border-block-color: #f0606d; }
+
+.border-block-peach {
+  border-block-color: #f07f40; }
+
+.border-block-yellow {
+  border-block-color: #da9413; }
+
+.border-block-green {
+  border-block-color: #4cab38; }
+
+.border-block-teal {
+  border-block-color: #78bfb8; }
+
+.border-block-sky {
+  border-block-color: #60bfe5; }
+
+.border-block-sapphire {
+  border-block-color: #56adcf; }
+
+.border-block-blue {
+  border-block-color: #6c97e1; }
+
+.border-block-lavender {
+  border-block-color: #9799ff; }
+
+.border-block-text {
+  border-block-color: #322c2a; }
+
+.border-block-subtext1 {
+  border-block-color: #473c36; }
+
+.border-block-subtext0 {
+  border-block-color: #5a4f44; }
+
+.border-block-overlay2 {
+  border-block-color: #6f6254; }
+
+.border-block-overlay1 {
+  border-block-color: #847564; }
+
+.border-block-overlay0 {
+  border-block-color: #988873; }
+
+.border-block-surface2 {
+  border-block-color: #ad9c86; }
+
+.border-block-surface1 {
+  border-block-color: #c1aa8e; }
+
+.border-block-surface0 {
+  border-block-color: #d8c1a4; }
+
+.border-block-base {
+  border-block-color: #f2e5bc; }
+
+.border-block-mantle {
+  border-block-color: #ebdbb2; }
+
+.border-block-crust {
+  border-block-color: #d5c4a1; }
+
+.border-block-end-rosewater {
+  border-block-end-color: #e68d70; }
+
+.border-block-end-flamingo {
+  border-block-end-color: #d87c7a; }
+
+.border-block-end-pink {
+  border-block-end-color: #df8f92; }
+
+.border-block-end-mauve {
+  border-block-end-color: #a768f9; }
+
+.border-block-end-red {
+  border-block-end-color: #d54d52; }
+
+.border-block-end-maroon {
+  border-block-end-color: #f0606d; }
+
+.border-block-end-peach {
+  border-block-end-color: #f07f40; }
+
+.border-block-end-yellow {
+  border-block-end-color: #da9413; }
+
+.border-block-end-green {
+  border-block-end-color: #4cab38; }
+
+.border-block-end-teal {
+  border-block-end-color: #78bfb8; }
+
+.border-block-end-sky {
+  border-block-end-color: #60bfe5; }
+
+.border-block-end-sapphire {
+  border-block-end-color: #56adcf; }
+
+.border-block-end-blue {
+  border-block-end-color: #6c97e1; }
+
+.border-block-end-lavender {
+  border-block-end-color: #9799ff; }
+
+.border-block-end-text {
+  border-block-end-color: #322c2a; }
+
+.border-block-end-subtext1 {
+  border-block-end-color: #473c36; }
+
+.border-block-end-subtext0 {
+  border-block-end-color: #5a4f44; }
+
+.border-block-end-overlay2 {
+  border-block-end-color: #6f6254; }
+
+.border-block-end-overlay1 {
+  border-block-end-color: #847564; }
+
+.border-block-end-overlay0 {
+  border-block-end-color: #988873; }
+
+.border-block-end-surface2 {
+  border-block-end-color: #ad9c86; }
+
+.border-block-end-surface1 {
+  border-block-end-color: #c1aa8e; }
+
+.border-block-end-surface0 {
+  border-block-end-color: #d8c1a4; }
+
+.border-block-end-base {
+  border-block-end-color: #f2e5bc; }
+
+.border-block-end-mantle {
+  border-block-end-color: #ebdbb2; }
+
+.border-block-end-crust {
+  border-block-end-color: #d5c4a1; }
+
+.border-block-start-rosewater {
+  border-block-start-color: #e68d70; }
+
+.border-block-start-flamingo {
+  border-block-start-color: #d87c7a; }
+
+.border-block-start-pink {
+  border-block-start-color: #df8f92; }
+
+.border-block-start-mauve {
+  border-block-start-color: #a768f9; }
+
+.border-block-start-red {
+  border-block-start-color: #d54d52; }
+
+.border-block-start-maroon {
+  border-block-start-color: #f0606d; }
+
+.border-block-start-peach {
+  border-block-start-color: #f07f40; }
+
+.border-block-start-yellow {
+  border-block-start-color: #da9413; }
+
+.border-block-start-green {
+  border-block-start-color: #4cab38; }
+
+.border-block-start-teal {
+  border-block-start-color: #78bfb8; }
+
+.border-block-start-sky {
+  border-block-start-color: #60bfe5; }
+
+.border-block-start-sapphire {
+  border-block-start-color: #56adcf; }
+
+.border-block-start-blue {
+  border-block-start-color: #6c97e1; }
+
+.border-block-start-lavender {
+  border-block-start-color: #9799ff; }
+
+.border-block-start-text {
+  border-block-start-color: #322c2a; }
+
+.border-block-start-subtext1 {
+  border-block-start-color: #473c36; }
+
+.border-block-start-subtext0 {
+  border-block-start-color: #5a4f44; }
+
+.border-block-start-overlay2 {
+  border-block-start-color: #6f6254; }
+
+.border-block-start-overlay1 {
+  border-block-start-color: #847564; }
+
+.border-block-start-overlay0 {
+  border-block-start-color: #988873; }
+
+.border-block-start-surface2 {
+  border-block-start-color: #ad9c86; }
+
+.border-block-start-surface1 {
+  border-block-start-color: #c1aa8e; }
+
+.border-block-start-surface0 {
+  border-block-start-color: #d8c1a4; }
+
+.border-block-start-base {
+  border-block-start-color: #f2e5bc; }
+
+.border-block-start-mantle {
+  border-block-start-color: #ebdbb2; }
+
+.border-block-start-crust {
+  border-block-start-color: #d5c4a1; }
+
+.border-bottom-rosewater {
+  border-bottom-color: #e68d70; }
+
+.border-bottom-flamingo {
+  border-bottom-color: #d87c7a; }
+
+.border-bottom-pink {
+  border-bottom-color: #df8f92; }
+
+.border-bottom-mauve {
+  border-bottom-color: #a768f9; }
+
+.border-bottom-red {
+  border-bottom-color: #d54d52; }
+
+.border-bottom-maroon {
+  border-bottom-color: #f0606d; }
+
+.border-bottom-peach {
+  border-bottom-color: #f07f40; }
+
+.border-bottom-yellow {
+  border-bottom-color: #da9413; }
+
+.border-bottom-green {
+  border-bottom-color: #4cab38; }
+
+.border-bottom-teal {
+  border-bottom-color: #78bfb8; }
+
+.border-bottom-sky {
+  border-bottom-color: #60bfe5; }
+
+.border-bottom-sapphire {
+  border-bottom-color: #56adcf; }
+
+.border-bottom-blue {
+  border-bottom-color: #6c97e1; }
+
+.border-bottom-lavender {
+  border-bottom-color: #9799ff; }
+
+.border-bottom-text {
+  border-bottom-color: #322c2a; }
+
+.border-bottom-subtext1 {
+  border-bottom-color: #473c36; }
+
+.border-bottom-subtext0 {
+  border-bottom-color: #5a4f44; }
+
+.border-bottom-overlay2 {
+  border-bottom-color: #6f6254; }
+
+.border-bottom-overlay1 {
+  border-bottom-color: #847564; }
+
+.border-bottom-overlay0 {
+  border-bottom-color: #988873; }
+
+.border-bottom-surface2 {
+  border-bottom-color: #ad9c86; }
+
+.border-bottom-surface1 {
+  border-bottom-color: #c1aa8e; }
+
+.border-bottom-surface0 {
+  border-bottom-color: #d8c1a4; }
+
+.border-bottom-base {
+  border-bottom-color: #f2e5bc; }
+
+.border-bottom-mantle {
+  border-bottom-color: #ebdbb2; }
+
+.border-bottom-crust {
+  border-bottom-color: #d5c4a1; }
+
+.border-rosewater {
+  border-color: #e68d70; }
+
+.border-flamingo {
+  border-color: #d87c7a; }
+
+.border-pink {
+  border-color: #df8f92; }
+
+.border-mauve {
+  border-color: #a768f9; }
+
+.border-red {
+  border-color: #d54d52; }
+
+.border-maroon {
+  border-color: #f0606d; }
+
+.border-peach {
+  border-color: #f07f40; }
+
+.border-yellow {
+  border-color: #da9413; }
+
+.border-green {
+  border-color: #4cab38; }
+
+.border-teal {
+  border-color: #78bfb8; }
+
+.border-sky {
+  border-color: #60bfe5; }
+
+.border-sapphire {
+  border-color: #56adcf; }
+
+.border-blue {
+  border-color: #6c97e1; }
+
+.border-lavender {
+  border-color: #9799ff; }
+
+.border-text {
+  border-color: #322c2a; }
+
+.border-subtext1 {
+  border-color: #473c36; }
+
+.border-subtext0 {
+  border-color: #5a4f44; }
+
+.border-overlay2 {
+  border-color: #6f6254; }
+
+.border-overlay1 {
+  border-color: #847564; }
+
+.border-overlay0 {
+  border-color: #988873; }
+
+.border-surface2 {
+  border-color: #ad9c86; }
+
+.border-surface1 {
+  border-color: #c1aa8e; }
+
+.border-surface0 {
+  border-color: #d8c1a4; }
+
+.border-base {
+  border-color: #f2e5bc; }
+
+.border-mantle {
+  border-color: #ebdbb2; }
+
+.border-crust {
+  border-color: #d5c4a1; }
+
+.border-inline-rosewater {
+  border-inline-color: #e68d70; }
+
+.border-inline-flamingo {
+  border-inline-color: #d87c7a; }
+
+.border-inline-pink {
+  border-inline-color: #df8f92; }
+
+.border-inline-mauve {
+  border-inline-color: #a768f9; }
+
+.border-inline-red {
+  border-inline-color: #d54d52; }
+
+.border-inline-maroon {
+  border-inline-color: #f0606d; }
+
+.border-inline-peach {
+  border-inline-color: #f07f40; }
+
+.border-inline-yellow {
+  border-inline-color: #da9413; }
+
+.border-inline-green {
+  border-inline-color: #4cab38; }
+
+.border-inline-teal {
+  border-inline-color: #78bfb8; }
+
+.border-inline-sky {
+  border-inline-color: #60bfe5; }
+
+.border-inline-sapphire {
+  border-inline-color: #56adcf; }
+
+.border-inline-blue {
+  border-inline-color: #6c97e1; }
+
+.border-inline-lavender {
+  border-inline-color: #9799ff; }
+
+.border-inline-text {
+  border-inline-color: #322c2a; }
+
+.border-inline-subtext1 {
+  border-inline-color: #473c36; }
+
+.border-inline-subtext0 {
+  border-inline-color: #5a4f44; }
+
+.border-inline-overlay2 {
+  border-inline-color: #6f6254; }
+
+.border-inline-overlay1 {
+  border-inline-color: #847564; }
+
+.border-inline-overlay0 {
+  border-inline-color: #988873; }
+
+.border-inline-surface2 {
+  border-inline-color: #ad9c86; }
+
+.border-inline-surface1 {
+  border-inline-color: #c1aa8e; }
+
+.border-inline-surface0 {
+  border-inline-color: #d8c1a4; }
+
+.border-inline-base {
+  border-inline-color: #f2e5bc; }
+
+.border-inline-mantle {
+  border-inline-color: #ebdbb2; }
+
+.border-inline-crust {
+  border-inline-color: #d5c4a1; }
+
+.border-inline-end-rosewater {
+  border-inline-end-color: #e68d70; }
+
+.border-inline-end-flamingo {
+  border-inline-end-color: #d87c7a; }
+
+.border-inline-end-pink {
+  border-inline-end-color: #df8f92; }
+
+.border-inline-end-mauve {
+  border-inline-end-color: #a768f9; }
+
+.border-inline-end-red {
+  border-inline-end-color: #d54d52; }
+
+.border-inline-end-maroon {
+  border-inline-end-color: #f0606d; }
+
+.border-inline-end-peach {
+  border-inline-end-color: #f07f40; }
+
+.border-inline-end-yellow {
+  border-inline-end-color: #da9413; }
+
+.border-inline-end-green {
+  border-inline-end-color: #4cab38; }
+
+.border-inline-end-teal {
+  border-inline-end-color: #78bfb8; }
+
+.border-inline-end-sky {
+  border-inline-end-color: #60bfe5; }
+
+.border-inline-end-sapphire {
+  border-inline-end-color: #56adcf; }
+
+.border-inline-end-blue {
+  border-inline-end-color: #6c97e1; }
+
+.border-inline-end-lavender {
+  border-inline-end-color: #9799ff; }
+
+.border-inline-end-text {
+  border-inline-end-color: #322c2a; }
+
+.border-inline-end-subtext1 {
+  border-inline-end-color: #473c36; }
+
+.border-inline-end-subtext0 {
+  border-inline-end-color: #5a4f44; }
+
+.border-inline-end-overlay2 {
+  border-inline-end-color: #6f6254; }
+
+.border-inline-end-overlay1 {
+  border-inline-end-color: #847564; }
+
+.border-inline-end-overlay0 {
+  border-inline-end-color: #988873; }
+
+.border-inline-end-surface2 {
+  border-inline-end-color: #ad9c86; }
+
+.border-inline-end-surface1 {
+  border-inline-end-color: #c1aa8e; }
+
+.border-inline-end-surface0 {
+  border-inline-end-color: #d8c1a4; }
+
+.border-inline-end-base {
+  border-inline-end-color: #f2e5bc; }
+
+.border-inline-end-mantle {
+  border-inline-end-color: #ebdbb2; }
+
+.border-inline-end-crust {
+  border-inline-end-color: #d5c4a1; }
+
+.border-inline-start-rosewater {
+  border-inline-start-color: #e68d70; }
+
+.border-inline-start-flamingo {
+  border-inline-start-color: #d87c7a; }
+
+.border-inline-start-pink {
+  border-inline-start-color: #df8f92; }
+
+.border-inline-start-mauve {
+  border-inline-start-color: #a768f9; }
+
+.border-inline-start-red {
+  border-inline-start-color: #d54d52; }
+
+.border-inline-start-maroon {
+  border-inline-start-color: #f0606d; }
+
+.border-inline-start-peach {
+  border-inline-start-color: #f07f40; }
+
+.border-inline-start-yellow {
+  border-inline-start-color: #da9413; }
+
+.border-inline-start-green {
+  border-inline-start-color: #4cab38; }
+
+.border-inline-start-teal {
+  border-inline-start-color: #78bfb8; }
+
+.border-inline-start-sky {
+  border-inline-start-color: #60bfe5; }
+
+.border-inline-start-sapphire {
+  border-inline-start-color: #56adcf; }
+
+.border-inline-start-blue {
+  border-inline-start-color: #6c97e1; }
+
+.border-inline-start-lavender {
+  border-inline-start-color: #9799ff; }
+
+.border-inline-start-text {
+  border-inline-start-color: #322c2a; }
+
+.border-inline-start-subtext1 {
+  border-inline-start-color: #473c36; }
+
+.border-inline-start-subtext0 {
+  border-inline-start-color: #5a4f44; }
+
+.border-inline-start-overlay2 {
+  border-inline-start-color: #6f6254; }
+
+.border-inline-start-overlay1 {
+  border-inline-start-color: #847564; }
+
+.border-inline-start-overlay0 {
+  border-inline-start-color: #988873; }
+
+.border-inline-start-surface2 {
+  border-inline-start-color: #ad9c86; }
+
+.border-inline-start-surface1 {
+  border-inline-start-color: #c1aa8e; }
+
+.border-inline-start-surface0 {
+  border-inline-start-color: #d8c1a4; }
+
+.border-inline-start-base {
+  border-inline-start-color: #f2e5bc; }
+
+.border-inline-start-mantle {
+  border-inline-start-color: #ebdbb2; }
+
+.border-inline-start-crust {
+  border-inline-start-color: #d5c4a1; }
+
+.border-left-rosewater {
+  border-left-color: #e68d70; }
+
+.border-left-flamingo {
+  border-left-color: #d87c7a; }
+
+.border-left-pink {
+  border-left-color: #df8f92; }
+
+.border-left-mauve {
+  border-left-color: #a768f9; }
+
+.border-left-red {
+  border-left-color: #d54d52; }
+
+.border-left-maroon {
+  border-left-color: #f0606d; }
+
+.border-left-peach {
+  border-left-color: #f07f40; }
+
+.border-left-yellow {
+  border-left-color: #da9413; }
+
+.border-left-green {
+  border-left-color: #4cab38; }
+
+.border-left-teal {
+  border-left-color: #78bfb8; }
+
+.border-left-sky {
+  border-left-color: #60bfe5; }
+
+.border-left-sapphire {
+  border-left-color: #56adcf; }
+
+.border-left-blue {
+  border-left-color: #6c97e1; }
+
+.border-left-lavender {
+  border-left-color: #9799ff; }
+
+.border-left-text {
+  border-left-color: #322c2a; }
+
+.border-left-subtext1 {
+  border-left-color: #473c36; }
+
+.border-left-subtext0 {
+  border-left-color: #5a4f44; }
+
+.border-left-overlay2 {
+  border-left-color: #6f6254; }
+
+.border-left-overlay1 {
+  border-left-color: #847564; }
+
+.border-left-overlay0 {
+  border-left-color: #988873; }
+
+.border-left-surface2 {
+  border-left-color: #ad9c86; }
+
+.border-left-surface1 {
+  border-left-color: #c1aa8e; }
+
+.border-left-surface0 {
+  border-left-color: #d8c1a4; }
+
+.border-left-base {
+  border-left-color: #f2e5bc; }
+
+.border-left-mantle {
+  border-left-color: #ebdbb2; }
+
+.border-left-crust {
+  border-left-color: #d5c4a1; }
+
+.border-right-rosewater {
+  border-right-color: #e68d70; }
+
+.border-right-flamingo {
+  border-right-color: #d87c7a; }
+
+.border-right-pink {
+  border-right-color: #df8f92; }
+
+.border-right-mauve {
+  border-right-color: #a768f9; }
+
+.border-right-red {
+  border-right-color: #d54d52; }
+
+.border-right-maroon {
+  border-right-color: #f0606d; }
+
+.border-right-peach {
+  border-right-color: #f07f40; }
+
+.border-right-yellow {
+  border-right-color: #da9413; }
+
+.border-right-green {
+  border-right-color: #4cab38; }
+
+.border-right-teal {
+  border-right-color: #78bfb8; }
+
+.border-right-sky {
+  border-right-color: #60bfe5; }
+
+.border-right-sapphire {
+  border-right-color: #56adcf; }
+
+.border-right-blue {
+  border-right-color: #6c97e1; }
+
+.border-right-lavender {
+  border-right-color: #9799ff; }
+
+.border-right-text {
+  border-right-color: #322c2a; }
+
+.border-right-subtext1 {
+  border-right-color: #473c36; }
+
+.border-right-subtext0 {
+  border-right-color: #5a4f44; }
+
+.border-right-overlay2 {
+  border-right-color: #6f6254; }
+
+.border-right-overlay1 {
+  border-right-color: #847564; }
+
+.border-right-overlay0 {
+  border-right-color: #988873; }
+
+.border-right-surface2 {
+  border-right-color: #ad9c86; }
+
+.border-right-surface1 {
+  border-right-color: #c1aa8e; }
+
+.border-right-surface0 {
+  border-right-color: #d8c1a4; }
+
+.border-right-base {
+  border-right-color: #f2e5bc; }
+
+.border-right-mantle {
+  border-right-color: #ebdbb2; }
+
+.border-right-crust {
+  border-right-color: #d5c4a1; }
+
+.border-top-rosewater {
+  border-top-color: #e68d70; }
+
+.border-top-flamingo {
+  border-top-color: #d87c7a; }
+
+.border-top-pink {
+  border-top-color: #df8f92; }
+
+.border-top-mauve {
+  border-top-color: #a768f9; }
+
+.border-top-red {
+  border-top-color: #d54d52; }
+
+.border-top-maroon {
+  border-top-color: #f0606d; }
+
+.border-top-peach {
+  border-top-color: #f07f40; }
+
+.border-top-yellow {
+  border-top-color: #da9413; }
+
+.border-top-green {
+  border-top-color: #4cab38; }
+
+.border-top-teal {
+  border-top-color: #78bfb8; }
+
+.border-top-sky {
+  border-top-color: #60bfe5; }
+
+.border-top-sapphire {
+  border-top-color: #56adcf; }
+
+.border-top-blue {
+  border-top-color: #6c97e1; }
+
+.border-top-lavender {
+  border-top-color: #9799ff; }
+
+.border-top-text {
+  border-top-color: #322c2a; }
+
+.border-top-subtext1 {
+  border-top-color: #473c36; }
+
+.border-top-subtext0 {
+  border-top-color: #5a4f44; }
+
+.border-top-overlay2 {
+  border-top-color: #6f6254; }
+
+.border-top-overlay1 {
+  border-top-color: #847564; }
+
+.border-top-overlay0 {
+  border-top-color: #988873; }
+
+.border-top-surface2 {
+  border-top-color: #ad9c86; }
+
+.border-top-surface1 {
+  border-top-color: #c1aa8e; }
+
+.border-top-surface0 {
+  border-top-color: #d8c1a4; }
+
+.border-top-base {
+  border-top-color: #f2e5bc; }
+
+.border-top-mantle {
+  border-top-color: #ebdbb2; }
+
+.border-top-crust {
+  border-top-color: #d5c4a1; }
+
+.caret-rosewater {
+  caret-color: #e68d70; }
+
+.caret-flamingo {
+  caret-color: #d87c7a; }
+
+.caret-pink {
+  caret-color: #df8f92; }
+
+.caret-mauve {
+  caret-color: #a768f9; }
+
+.caret-red {
+  caret-color: #d54d52; }
+
+.caret-maroon {
+  caret-color: #f0606d; }
+
+.caret-peach {
+  caret-color: #f07f40; }
+
+.caret-yellow {
+  caret-color: #da9413; }
+
+.caret-green {
+  caret-color: #4cab38; }
+
+.caret-teal {
+  caret-color: #78bfb8; }
+
+.caret-sky {
+  caret-color: #60bfe5; }
+
+.caret-sapphire {
+  caret-color: #56adcf; }
+
+.caret-blue {
+  caret-color: #6c97e1; }
+
+.caret-lavender {
+  caret-color: #9799ff; }
+
+.caret-text {
+  caret-color: #322c2a; }
+
+.caret-subtext1 {
+  caret-color: #473c36; }
+
+.caret-subtext0 {
+  caret-color: #5a4f44; }
+
+.caret-overlay2 {
+  caret-color: #6f6254; }
+
+.caret-overlay1 {
+  caret-color: #847564; }
+
+.caret-overlay0 {
+  caret-color: #988873; }
+
+.caret-surface2 {
+  caret-color: #ad9c86; }
+
+.caret-surface1 {
+  caret-color: #c1aa8e; }
+
+.caret-surface0 {
+  caret-color: #d8c1a4; }
+
+.caret-base {
+  caret-color: #f2e5bc; }
+
+.caret-mantle {
+  caret-color: #ebdbb2; }
+
+.caret-crust {
+  caret-color: #d5c4a1; }
+
+.column-rule-rosewater {
+  column-rule-color: #e68d70; }
+
+.column-rule-flamingo {
+  column-rule-color: #d87c7a; }
+
+.column-rule-pink {
+  column-rule-color: #df8f92; }
+
+.column-rule-mauve {
+  column-rule-color: #a768f9; }
+
+.column-rule-red {
+  column-rule-color: #d54d52; }
+
+.column-rule-maroon {
+  column-rule-color: #f0606d; }
+
+.column-rule-peach {
+  column-rule-color: #f07f40; }
+
+.column-rule-yellow {
+  column-rule-color: #da9413; }
+
+.column-rule-green {
+  column-rule-color: #4cab38; }
+
+.column-rule-teal {
+  column-rule-color: #78bfb8; }
+
+.column-rule-sky {
+  column-rule-color: #60bfe5; }
+
+.column-rule-sapphire {
+  column-rule-color: #56adcf; }
+
+.column-rule-blue {
+  column-rule-color: #6c97e1; }
+
+.column-rule-lavender {
+  column-rule-color: #9799ff; }
+
+.column-rule-text {
+  column-rule-color: #322c2a; }
+
+.column-rule-subtext1 {
+  column-rule-color: #473c36; }
+
+.column-rule-subtext0 {
+  column-rule-color: #5a4f44; }
+
+.column-rule-overlay2 {
+  column-rule-color: #6f6254; }
+
+.column-rule-overlay1 {
+  column-rule-color: #847564; }
+
+.column-rule-overlay0 {
+  column-rule-color: #988873; }
+
+.column-rule-surface2 {
+  column-rule-color: #ad9c86; }
+
+.column-rule-surface1 {
+  column-rule-color: #c1aa8e; }
+
+.column-rule-surface0 {
+  column-rule-color: #d8c1a4; }
+
+.column-rule-base {
+  column-rule-color: #f2e5bc; }
+
+.column-rule-mantle {
+  column-rule-color: #ebdbb2; }
+
+.column-rule-crust {
+  column-rule-color: #d5c4a1; }
+
+.outline-rosewater {
+  outline-color: #e68d70; }
+
+.outline-flamingo {
+  outline-color: #d87c7a; }
+
+.outline-pink {
+  outline-color: #df8f92; }
+
+.outline-mauve {
+  outline-color: #a768f9; }
+
+.outline-red {
+  outline-color: #d54d52; }
+
+.outline-maroon {
+  outline-color: #f0606d; }
+
+.outline-peach {
+  outline-color: #f07f40; }
+
+.outline-yellow {
+  outline-color: #da9413; }
+
+.outline-green {
+  outline-color: #4cab38; }
+
+.outline-teal {
+  outline-color: #78bfb8; }
+
+.outline-sky {
+  outline-color: #60bfe5; }
+
+.outline-sapphire {
+  outline-color: #56adcf; }
+
+.outline-blue {
+  outline-color: #6c97e1; }
+
+.outline-lavender {
+  outline-color: #9799ff; }
+
+.outline-text {
+  outline-color: #322c2a; }
+
+.outline-subtext1 {
+  outline-color: #473c36; }
+
+.outline-subtext0 {
+  outline-color: #5a4f44; }
+
+.outline-overlay2 {
+  outline-color: #6f6254; }
+
+.outline-overlay1 {
+  outline-color: #847564; }
+
+.outline-overlay0 {
+  outline-color: #988873; }
+
+.outline-surface2 {
+  outline-color: #ad9c86; }
+
+.outline-surface1 {
+  outline-color: #c1aa8e; }
+
+.outline-surface0 {
+  outline-color: #d8c1a4; }
+
+.outline-base {
+  outline-color: #f2e5bc; }
+
+.outline-mantle {
+  outline-color: #ebdbb2; }
+
+.outline-crust {
+  outline-color: #d5c4a1; }
+
+.scrollbar-rosewater {
+  scrollbar-color: #e68d70; }
+
+.scrollbar-flamingo {
+  scrollbar-color: #d87c7a; }
+
+.scrollbar-pink {
+  scrollbar-color: #df8f92; }
+
+.scrollbar-mauve {
+  scrollbar-color: #a768f9; }
+
+.scrollbar-red {
+  scrollbar-color: #d54d52; }
+
+.scrollbar-maroon {
+  scrollbar-color: #f0606d; }
+
+.scrollbar-peach {
+  scrollbar-color: #f07f40; }
+
+.scrollbar-yellow {
+  scrollbar-color: #da9413; }
+
+.scrollbar-green {
+  scrollbar-color: #4cab38; }
+
+.scrollbar-teal {
+  scrollbar-color: #78bfb8; }
+
+.scrollbar-sky {
+  scrollbar-color: #60bfe5; }
+
+.scrollbar-sapphire {
+  scrollbar-color: #56adcf; }
+
+.scrollbar-blue {
+  scrollbar-color: #6c97e1; }
+
+.scrollbar-lavender {
+  scrollbar-color: #9799ff; }
+
+.scrollbar-text {
+  scrollbar-color: #322c2a; }
+
+.scrollbar-subtext1 {
+  scrollbar-color: #473c36; }
+
+.scrollbar-subtext0 {
+  scrollbar-color: #5a4f44; }
+
+.scrollbar-overlay2 {
+  scrollbar-color: #6f6254; }
+
+.scrollbar-overlay1 {
+  scrollbar-color: #847564; }
+
+.scrollbar-overlay0 {
+  scrollbar-color: #988873; }
+
+.scrollbar-surface2 {
+  scrollbar-color: #ad9c86; }
+
+.scrollbar-surface1 {
+  scrollbar-color: #c1aa8e; }
+
+.scrollbar-surface0 {
+  scrollbar-color: #d8c1a4; }
+
+.scrollbar-base {
+  scrollbar-color: #f2e5bc; }
+
+.scrollbar-mantle {
+  scrollbar-color: #ebdbb2; }
+
+.scrollbar-crust {
+  scrollbar-color: #d5c4a1; }
+
+.text-decoration-rosewater {
+  text-decoration-color: #e68d70; }
+
+.text-decoration-flamingo {
+  text-decoration-color: #d87c7a; }
+
+.text-decoration-pink {
+  text-decoration-color: #df8f92; }
+
+.text-decoration-mauve {
+  text-decoration-color: #a768f9; }
+
+.text-decoration-red {
+  text-decoration-color: #d54d52; }
+
+.text-decoration-maroon {
+  text-decoration-color: #f0606d; }
+
+.text-decoration-peach {
+  text-decoration-color: #f07f40; }
+
+.text-decoration-yellow {
+  text-decoration-color: #da9413; }
+
+.text-decoration-green {
+  text-decoration-color: #4cab38; }
+
+.text-decoration-teal {
+  text-decoration-color: #78bfb8; }
+
+.text-decoration-sky {
+  text-decoration-color: #60bfe5; }
+
+.text-decoration-sapphire {
+  text-decoration-color: #56adcf; }
+
+.text-decoration-blue {
+  text-decoration-color: #6c97e1; }
+
+.text-decoration-lavender {
+  text-decoration-color: #9799ff; }
+
+.text-decoration-text {
+  text-decoration-color: #322c2a; }
+
+.text-decoration-subtext1 {
+  text-decoration-color: #473c36; }
+
+.text-decoration-subtext0 {
+  text-decoration-color: #5a4f44; }
+
+.text-decoration-overlay2 {
+  text-decoration-color: #6f6254; }
+
+.text-decoration-overlay1 {
+  text-decoration-color: #847564; }
+
+.text-decoration-overlay0 {
+  text-decoration-color: #988873; }
+
+.text-decoration-surface2 {
+  text-decoration-color: #ad9c86; }
+
+.text-decoration-surface1 {
+  text-decoration-color: #c1aa8e; }
+
+.text-decoration-surface0 {
+  text-decoration-color: #d8c1a4; }
+
+.text-decoration-base {
+  text-decoration-color: #f2e5bc; }
+
+.text-decoration-mantle {
+  text-decoration-color: #ebdbb2; }
+
+.text-decoration-crust {
+  text-decoration-color: #d5c4a1; }
+
+.text-emphasis-rosewater {
+  text-emphasis-color: #e68d70; }
+
+.text-emphasis-flamingo {
+  text-emphasis-color: #d87c7a; }
+
+.text-emphasis-pink {
+  text-emphasis-color: #df8f92; }
+
+.text-emphasis-mauve {
+  text-emphasis-color: #a768f9; }
+
+.text-emphasis-red {
+  text-emphasis-color: #d54d52; }
+
+.text-emphasis-maroon {
+  text-emphasis-color: #f0606d; }
+
+.text-emphasis-peach {
+  text-emphasis-color: #f07f40; }
+
+.text-emphasis-yellow {
+  text-emphasis-color: #da9413; }
+
+.text-emphasis-green {
+  text-emphasis-color: #4cab38; }
+
+.text-emphasis-teal {
+  text-emphasis-color: #78bfb8; }
+
+.text-emphasis-sky {
+  text-emphasis-color: #60bfe5; }
+
+.text-emphasis-sapphire {
+  text-emphasis-color: #56adcf; }
+
+.text-emphasis-blue {
+  text-emphasis-color: #6c97e1; }
+
+.text-emphasis-lavender {
+  text-emphasis-color: #9799ff; }
+
+.text-emphasis-text {
+  text-emphasis-color: #322c2a; }
+
+.text-emphasis-subtext1 {
+  text-emphasis-color: #473c36; }
+
+.text-emphasis-subtext0 {
+  text-emphasis-color: #5a4f44; }
+
+.text-emphasis-overlay2 {
+  text-emphasis-color: #6f6254; }
+
+.text-emphasis-overlay1 {
+  text-emphasis-color: #847564; }
+
+.text-emphasis-overlay0 {
+  text-emphasis-color: #988873; }
+
+.text-emphasis-surface2 {
+  text-emphasis-color: #ad9c86; }
+
+.text-emphasis-surface1 {
+  text-emphasis-color: #c1aa8e; }
+
+.text-emphasis-surface0 {
+  text-emphasis-color: #d8c1a4; }
+
+.text-emphasis-base {
+  text-emphasis-color: #f2e5bc; }
+
+.text-emphasis-mantle {
+  text-emphasis-color: #ebdbb2; }
+
+.text-emphasis-crust {
+  text-emphasis-color: #d5c4a1; }
+
+.bg-color-rosewater {
+  background-color: #e68d70; }
+
+.bg-color-flamingo {
+  background-color: #d87c7a; }
+
+.bg-color-pink {
+  background-color: #df8f92; }
+
+.bg-color-mauve {
+  background-color: #a768f9; }
+
+.bg-color-red {
+  background-color: #d54d52; }
+
+.bg-color-maroon {
+  background-color: #f0606d; }
+
+.bg-color-peach {
+  background-color: #f07f40; }
+
+.bg-color-yellow {
+  background-color: #da9413; }
+
+.bg-color-green {
+  background-color: #4cab38; }
+
+.bg-color-teal {
+  background-color: #78bfb8; }
+
+.bg-color-sky {
+  background-color: #60bfe5; }
+
+.bg-color-sapphire {
+  background-color: #56adcf; }
+
+.bg-color-blue {
+  background-color: #6c97e1; }
+
+.bg-color-lavender {
+  background-color: #9799ff; }
+
+.bg-color-text {
+  background-color: #322c2a; }
+
+.bg-color-subtext1 {
+  background-color: #473c36; }
+
+.bg-color-subtext0 {
+  background-color: #5a4f44; }
+
+.bg-color-overlay2 {
+  background-color: #6f6254; }
+
+.bg-color-overlay1 {
+  background-color: #847564; }
+
+.bg-color-overlay0 {
+  background-color: #988873; }
+
+.bg-color-surface2 {
+  background-color: #ad9c86; }
+
+.bg-color-surface1 {
+  background-color: #c1aa8e; }
+
+.bg-color-surface0 {
+  background-color: #d8c1a4; }
+
+.bg-color-base {
+  background-color: #f2e5bc; }
+
+.bg-color-mantle {
+  background-color: #ebdbb2; }
+
+.bg-color-crust {
+  background-color: #d5c4a1; }
+
+.text-color-rosewater {
+  color: #e68d70; }
+
+.text-color-flamingo {
+  color: #d87c7a; }
+
+.text-color-pink {
+  color: #df8f92; }
+
+.text-color-mauve {
+  color: #a768f9; }
+
+.text-color-red {
+  color: #d54d52; }
+
+.text-color-maroon {
+  color: #f0606d; }
+
+.text-color-peach {
+  color: #f07f40; }
+
+.text-color-yellow {
+  color: #da9413; }
+
+.text-color-green {
+  color: #4cab38; }
+
+.text-color-teal {
+  color: #78bfb8; }
+
+.text-color-sky {
+  color: #60bfe5; }
+
+.text-color-sapphire {
+  color: #56adcf; }
+
+.text-color-blue {
+  color: #6c97e1; }
+
+.text-color-lavender {
+  color: #9799ff; }
+
+.text-color-text {
+  color: #322c2a; }
+
+.text-color-subtext1 {
+  color: #473c36; }
+
+.text-color-subtext0 {
+  color: #5a4f44; }
+
+.text-color-overlay2 {
+  color: #6f6254; }
+
+.text-color-overlay1 {
+  color: #847564; }
+
+.text-color-overlay0 {
+  color: #988873; }
+
+.text-color-surface2 {
+  color: #ad9c86; }
+
+.text-color-surface1 {
+  color: #c1aa8e; }
+
+.text-color-surface0 {
+  color: #d8c1a4; }
+
+.text-color-base {
+  color: #f2e5bc; }
+
+.text-color-mantle {
+  color: #ebdbb2; }
+
+.text-color-crust {
+  color: #d5c4a1; }

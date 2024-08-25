@@ -1,0 +1,24 @@
+$tags-list: accent background border-block border-block-end border-block-start border-bottom border border-inline border-inline-end border-inline-start border-left border-right border-top caret column-rule outline scrollbar text-decoration text-emphasis;
+
+$names-list: rosewater flamingo pink mauve red maroon peach yellow green teal sky sapphire blue lavender text subtext1 subtext0 overlay2 overlay1 overlay0 surface2 surface1 surface0 base mantle crust;
+$colors-list: #e68d70 #d87c7a #df8f92 #a768f9 #d54d52 #f0606d #f07f40 #da9413 #4cab38 #78bfb8 #60bfe5 #56adcf #6c97e1 #9799ff #322c2a #473c36 #5a4f44 #6f6254 #847564 #988873 #ad9c86 #c1aa8e #d8c1a4 #f2e5bc #ebdbb2 #d5c4a1;
+
+@each $j in $tags-list {
+    @for $i from 1 through length($colors-list) {
+        .#{$j}-#{nth($names-list, $i)} {
+            #{$j}-color: nth($colors-list, $i);
+        }
+    }
+}
+
+@for $i from 1 through length($colors-list) {
+    .bg-color-#{nth($names-list, $i)} {
+        background-color: nth($colors-list, $i);
+    }
+}
+
+@for $i from 1 through length($colors-list) {
+    .text-color-#{nth($names-list, $i)} {
+        color: nth($colors-list, $i);
+    }
+}
