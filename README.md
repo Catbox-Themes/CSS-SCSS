@@ -30,7 +30,7 @@ Just add the file for your chosen theme to your project as a normal theme.
 - `text-decoration-<color>`
 - `text-emphasis-<color>`
 
-All standard colors are available by name:
+All standard colors are available by name, substitute `<color>` for the name you wish to use:
 
 - Rosewater
 - Flamingo
